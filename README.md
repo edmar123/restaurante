@@ -141,6 +141,8 @@ Dependências dos pacotes que devem ficar em package.json:
   "webdriver-manager": "12.0.6"
 }
 ```
-## Créditos
+
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+# restaurante
+Projeto angular 6 de um  restaurante consumindo uma api json- json-serve
